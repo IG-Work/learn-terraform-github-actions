@@ -18,7 +18,7 @@ terraform {
     organization = "test-yashi1"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "learn-terraform-github-actions"
     }
   }
 }
